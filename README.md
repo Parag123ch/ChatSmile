@@ -27,12 +27,15 @@ Welcome to the Chatting Web App repository! This project is a responsive and int
 ## Responsive and Interactive Design
 
 The Chatting Web App features a responsive and interactive web design, ensuring a seamless user experience across various devices and screen sizes. The user interface is carefully crafted to be intuitive and engaging, providing users with a dynamic and interactive chatting experience.
-![Screenshot (7)](https://github.com/Parag123ch/ChatSmile/assets/123282697/2b89d539-5467-4208-9b11-76bc1e581977)
+
+![Screenshot (2)](https://github.com/Parag123ch/ChatSmile/assets/123282697/380ad6a1-aad7-48cf-9115-5a6f4da524da)
+![Screenshot (3)](https://github.com/Parag123ch/ChatSmile/assets/123282697/ea9b4d0d-24be-4df3-b707-4da5e4f8c264)
 ![Screenshot (6)](https://github.com/Parag123ch/ChatSmile/assets/123282697/7b17575e-14d4-490e-9fea-70fdbc55092b)
 ![Screenshot (5)](https://github.com/Parag123ch/ChatSmile/assets/123282697/3b8c4254-ec7f-4635-8865-9e4f3824bf20)
 ![Screenshot (4)](https://github.com/Parag123ch/ChatSmile/assets/123282697/d91c4835-e66e-4a57-a1fd-5054f3fa733b)
-![Screenshot (3)](https://github.com/Parag123ch/ChatSmile/assets/123282697/ea9b4d0d-24be-4df3-b707-4da5e4f8c264)
-![Screenshot (2)](https://github.com/Parag123ch/ChatSmile/assets/123282697/380ad6a1-aad7-48cf-9115-5a6f4da524da)
+![Screenshot (7)](https://github.com/Parag123ch/ChatSmile/assets/123282697/2b89d539-5467-4208-9b11-76bc1e581977)
+
+
 
 ## Getting Started
 
