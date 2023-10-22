@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+
+.App {
+  background-color: #e5e5e5;
+  /* background-color: #1c2429; */
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif !important;
+}
+
+.App-dark {
+  /* background-color: #dddedd; */
+  background-color: #292929;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+}
